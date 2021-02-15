@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ProductsWithScroll/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/ProductsWithScroll/static/js/main.a290e90f.chunk.js",
+    "main.js.map": "/ProductsWithScroll/static/js/main.a290e90f.chunk.js.map",
+    "runtime-main.js": "/ProductsWithScroll/static/js/runtime-main.0aafe29b.js",
+    "runtime-main.js.map": "/ProductsWithScroll/static/js/runtime-main.0aafe29b.js.map",
+    "static/js/2.fd7dd006.chunk.js": "/ProductsWithScroll/static/js/2.fd7dd006.chunk.js",
+    "static/js/2.fd7dd006.chunk.js.map": "/ProductsWithScroll/static/js/2.fd7dd006.chunk.js.map",
+    "static/js/3.84c4bb03.chunk.js": "/ProductsWithScroll/static/js/3.84c4bb03.chunk.js",
+    "static/js/3.84c4bb03.chunk.js.map": "/ProductsWithScroll/static/js/3.84c4bb03.chunk.js.map",
+    "index.html": "/ProductsWithScroll/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/ProductsWithScroll/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.fd7dd006.chunk.js.LICENSE.txt": "/ProductsWithScroll/static/js/2.fd7dd006.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/ProductsWithScroll/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0aafe29b.js",
+    "static/js/2.fd7dd006.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.a290e90f.chunk.js"
+  ]
+}
